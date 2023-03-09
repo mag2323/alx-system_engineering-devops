@@ -40,3 +40,6 @@ Create a script that adds execute permission to all subdirectories of the curren
 Regular files should not be changed.
 12. More directorie
 Create a script that creates a directory called my dir with permissions 751 in the working directory.
+13. Change grou
+Write a script that changes the group owner to school for the file hello
+The file hello will be in the working directory
