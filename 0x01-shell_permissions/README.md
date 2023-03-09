@@ -42,4 +42,6 @@ Regular files should not be changed.
 Create a script that creates a directory called my dir with permissions 751 in the working directory.
 13. Change grou
 Write a script that changes the group owner to school for the file hello
-The file hello will be in the working directory
+The file hello will be in the working directory.
+14. Owner and grop
+Write a script that changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.
