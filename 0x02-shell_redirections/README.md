@@ -10,5 +10,8 @@ Display the content of /etc/passwd and /etc/hosts
 Display the last 10 lines of /etc/passwd.
 5. I'd prefer the first ones actually
 Display the first 10 lines of /etc/passwd
-6. Write a script that displays the third line of the file iacta.
+6. Line #2
+Write a script that displays the third line of the file iacta.
 The file iacta will be in the working directory. You’re not allowed to use sed
+7. It is a good file that cuts iron without making a noise
+Write a shell script that creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line.
