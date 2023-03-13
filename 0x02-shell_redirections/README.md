@@ -24,3 +24,6 @@ Write a script that deletes all the regular files (not the directories) with a .
 11. Don't just count your directories, make your directories count.
 Write a script that counts the number of directories and sub-directories in the current directory.
 The current and parent directories should not be taken into account.Hidden directories should be counted
+12. What’s new
+Create a script that displays the 10 newest files in the current directory.
+Requirements:One file per line. Sorted from the newest to the oldest
