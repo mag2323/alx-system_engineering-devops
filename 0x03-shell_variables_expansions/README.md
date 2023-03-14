@@ -14,3 +14,6 @@ Create a script that lists all local variables and environment variables, and fu
 6. Local variable
 Create a script that creates a new local variable.
 Name: BEST.Value: School
+7. Global variable
+Create a script that creates a new global variable.
+Name: BEST.Value: School
